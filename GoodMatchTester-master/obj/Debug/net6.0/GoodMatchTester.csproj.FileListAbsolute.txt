@@ -1,0 +1,16 @@
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\bin\Debug\net6.0\GoodMatchTester.exe
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\bin\Debug\net6.0\Resources\players.csv
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\bin\Debug\net6.0\GoodMatchTester.deps.json
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\bin\Debug\net6.0\GoodMatchTester.runtimeconfig.json
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\bin\Debug\net6.0\GoodMatchTester.dll
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\bin\Debug\net6.0\ref\GoodMatchTester.dll
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\bin\Debug\net6.0\GoodMatchTester.pdb
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.csproj.AssemblyReference.cache
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.AssemblyInfoInputs.cache
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.AssemblyInfo.cs
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.csproj.CoreCompileInputs.cache
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.dll
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\ref\GoodMatchTester.dll
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.pdb
+C:\Users\Sinethemba\Downloads\GoodMatchTester-master\GoodMatchTester-master\obj\Debug\net6.0\GoodMatchTester.genruntimeconfig.cache
